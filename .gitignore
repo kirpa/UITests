@@ -1,0 +1,25 @@
+*~
+.DS_Store
+
+# Xcode
+*/build/*
+*.pbxuser
+!default.pbxuser
+xcuserdata
+project.xcworkspace
+*.xccheckout
+
+# AppCode
+.idea
+
+# Pods
+Pods/*
+
+# Temp files and such
+*.swp
+*.out
+*.dot
+
+# Sonar files
+sonar-reports
+compile_commands.json
